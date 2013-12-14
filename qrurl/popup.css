@@ -1,3 +1,10 @@
+html {
+    width:116px;
+    height:116px;
+    margin:0px;
+    padding:0px;
+}
+
 body {
     width:100px;
     height:100px;
